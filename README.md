@@ -26,13 +26,16 @@ E --> SES
 ### Imagem Fluxo NiFi
 
 
+<img src=https://user-images.githubusercontent.com/69982713/216749970-a169fa4c-23d0-46ee-8e33-ec3c7794f491.png width="650" />
 
 
 
 ### Visão geral da função
 
+<img src=https://user-images.githubusercontent.com/69982713/216750035-1d89a526-14a3-4c70-a5ce-d4be6537f275.png width="650" />
 
 
 
 ### Notificação recebida
 
+<img src=https://user-images.githubusercontent.com/69982713/216750112-4c02115b-efd3-4b0f-9061-650de54b996b.jpg width="250" />
