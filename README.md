@@ -1,4 +1,4 @@
-# Documentação do Sistema de Notificação de Cotação do  Dólar
+# Documentação do Sistema de Notificação de Cotação do Dólar
 
 
 
@@ -6,7 +6,7 @@ Este sistema tem como objetivo enviar **notificações** por email informando a 
 
 ## Arquitetura do Sistema
 
-1.  O fluxo NiFi é hospedado em uma instância EC2 configurada com Ubuntu e é responsável por requisitar a cotação do dólar através de uma API de terceiros e enviar para o API Gateway.
+1.  O fluxo NiFi é hospedado em uma instância EC2 configurada com Ubuntu que é responsável por requisitar a cotação do dólar através de uma API de terceiros e enviar para o API Gateway.
     
 3.  API Gateway(method post)se acionado dispara a função Lambda.
     
